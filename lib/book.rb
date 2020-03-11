@@ -22,4 +22,6 @@ end
   def page_count
     @page_count
   end
+  
+  def genre=()
  end

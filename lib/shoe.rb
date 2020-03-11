@@ -9,6 +9,6 @@ class Shoe
     @brand
   end
   
-  attr_reader :brand, :color, :size, :material, :condition
+  #attr_reader :brand, :color, :size, :material, :condition
   
 end

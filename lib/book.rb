@@ -15,5 +15,11 @@ end
   def author
     @author
   end
-  def page count
+  def page_count=(page_count)
+    @page_count = page_count
+  end
+  
+  def page_count
+    @page_count
+  end
  end

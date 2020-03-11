@@ -3,7 +3,7 @@ class Shoe
   def initialize(brand)
   @brand
   end
-end
+
 
   def brand=(brand)
     @brand = brand

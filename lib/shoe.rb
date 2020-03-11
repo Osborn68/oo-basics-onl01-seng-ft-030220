@@ -7,6 +7,8 @@ class Shoe
     @brand
   end
   
+  def cobble
+    puts 
   
   
   attr_accessor :color, :size, :material, :condition

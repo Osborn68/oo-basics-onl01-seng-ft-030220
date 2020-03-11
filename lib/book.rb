@@ -15,5 +15,5 @@ end
   def author
     @author
   end
- 
+  def page count
  end
